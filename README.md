@@ -1,6 +1,7 @@
 # 소분소분
 
-![KakaoTalk_20230611_153651590_01](https://github.com/junkue20/Sobun_Sobun/assets/122848687/f6b90a85-d424-41c9-9587-0ef16c1df887)
+![소분소분-프로젝트-썸네일](https://github.com/junkue20/Sobun_Sobun/assets/122848687/e8788cad-8e26-43ff-b78e-cad7e1279c58)
+
 
 
 ## 🤔 “휴지 한 팩을 필요한 만큼만 살 순 없을까?”
@@ -25,7 +26,8 @@
 <br/>
 <br/>
 
-![소분소분_사용기술](https://github.com/junkue20/Sobun_Sobun/assets/122848687/b30f07e6-4e73-45d7-ad54-53831e975126)
+![image](https://github.com/junkue20/Sobun_Sobun/assets/122848687/51601385-d1f2-4273-a122-2c2fdd0625ab)
+
 
 <br/>
 <br/>
@@ -52,6 +54,9 @@
 - **이메일 인증번호 및 임시비밀번호 전송 기능 구현**
 
 <br/>
+
+[🔧 프로젝트 수행 상세정보](https://www.notion.so/junkue20/b69e6d3211774bfb9e8a48f1fbde786f?pvs=4)
+
 <br/>
 
 ## ✨ 문제 해결사례
